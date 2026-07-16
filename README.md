@@ -1,4 +1,7 @@
 # Responsive Clip Path Card
+
+> **Created by Antono**
+
 ## [Watch it on youtube](https://youtu.be/M5Q5hBlQO1A)
 ### Responsive Clip Path Card
 
